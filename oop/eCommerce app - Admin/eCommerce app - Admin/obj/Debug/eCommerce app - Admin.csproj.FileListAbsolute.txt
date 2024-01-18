@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\New folder (2)\New folder\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\eCommerce app - Admin.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\New folder (2)\New folder\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\eCommerce app - Admin.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\New folder (2)\New folder\eCommerce app - Admin\eCommerce app - Admin\bin\Debug\eCommerce app - Admin.exe.config
-C:\Users\User\Desktop\New folder (2)\New folder\eCommerce app - Admin\eCommerce app - Admin\bin\Debug\eCommerce app - Admin.exe
-C:\Users\User\Desktop\New folder (2)\New folder\eCommerce app - Admin\eCommerce app - Admin\bin\Debug\eCommerce app - Admin.pdb
-C:\Users\User\Desktop\New folder (2)\New folder\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\eCommerce app - Admin.exe
-C:\Users\User\Desktop\New folder (2)\New folder\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\eCommerce app - Admin.pdb

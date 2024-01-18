@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\New folder (2)\AcademicProjects\oop\eCommerce app - Admin\eCommerce app - Admin\bin\Debug\eCommerce app - Admin.exe.config
+C:\Users\User\Desktop\New folder (2)\AcademicProjects\oop\eCommerce app - Admin\eCommerce app - Admin\bin\Debug\eCommerce app - Admin.exe
+C:\Users\User\Desktop\New folder (2)\AcademicProjects\oop\eCommerce app - Admin\eCommerce app - Admin\bin\Debug\eCommerce app - Admin.pdb
+C:\Users\User\Desktop\New folder (2)\AcademicProjects\oop\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\Point Of Sale - OOP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\AcademicProjects\oop\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\Point Of Sale - OOP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\AcademicProjects\oop\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\eCommerce app - Admin.exe
+C:\Users\User\Desktop\New folder (2)\AcademicProjects\oop\eCommerce app - Admin\eCommerce app - Admin\obj\Debug\eCommerce app - Admin.pdb
